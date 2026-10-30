@@ -5,7 +5,7 @@ export default defineConfig({
   description: "VitePressで作るゲーム攻略サイト",
   
   // ⚡超重要：ご自身のリポジトリ名（例：/my-game-wiki/）に書き換えてください
-  base: '/my-game-wiki/', 
+  base: '/Wikiii/', 
 
   themeConfig: {
     // 検索機能を有効化（これだけで爆速検索バーが付きます）
